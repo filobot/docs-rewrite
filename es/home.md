@@ -1,4 +1,4 @@
-# Welcome to the Filo Wiki
+# Bienvenido a la Wiki de Filo
 
 In this Wiki you'll find all the resources and documentation necessary to learn how to configure Filo and how it behaves.
 
