@@ -2,9 +2,9 @@
 
 In this Wiki you'll find all the resources and documentation necessary to learn how to configure Filo and how it behaves.
 
-This Wiki is under constant development and its content may change without notice. If you want to make a contribution, **[contact us]({{LINKS_MAIN}}/discord)**.
+This Wiki is under constant development and its content may change without notice. If you want to make a contribution, **[contact us](https://filobot.xyz/discord)**.
 
-> If you need additional help, **[contact us]({{LINKS_MAIN}}/discord)**.
+> If you need additional help, **[contact us](https://filobot.xyz/discord)**.
 {.is-info}
 
 ## About Filo
@@ -13,12 +13,12 @@ Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. F
 
 ## Helpful Links
 
-- [Website]({{LINKS_MAIN}}).
-- [Donate]({{LINKS_MAIN}}/donate).
-- [Blog]({{LINKS_BLOG}}).
-- [Discord Server]({{LINKS_MAIN}}/discord).
+- [Website](https://filobot.xyz).
+- [Donate](https://filobot.xyz/donate).
+- [Blog](https://blog.filobot.xyz).
+- [Discord Server](https://filobot.xyz/discord).
 - [Twitter](https://twitter.com/FiloDiscord).
-- [Vote]({{LINKS_MAIN}}/vote).
+- [Vote](https://filobot.xyz/vote).
 
 # Wiki keys
 
