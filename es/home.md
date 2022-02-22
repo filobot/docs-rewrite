@@ -4,7 +4,7 @@ In this Wiki you'll find all the resources and documentation necessary to learn 
 
 This Wiki is under constant development and its content may change without notice. If you want to make a contribution, **[contact us](https://filobot.xyz/discord)**.
 
-> If you need additional help, **[contact us](https://filobot.xyz/discord)**. 
+> If you need help or require any additional clarification, **[contact us](https://filobot.xyz/discord)**. 
 > 
 > {.is-info}
 
