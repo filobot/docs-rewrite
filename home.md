@@ -36,5 +36,4 @@ On some pages it is possible that you will find some important characters or key
 > Alerts and important information will be displayed in a box similar to this one.
 {.is-danger}
 
-`[]` This represents optional arguments.
-`<>` This represents required arguments.
+`[]` This represents optional arguments `<>` This represents required arguments
