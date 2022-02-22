@@ -1,3 +1,5 @@
 files:
   - source: /getting-started/*.md
+    ignore:
+      - /es
     translation: /%two_letters_code%/getting-started/%original_file_name%
