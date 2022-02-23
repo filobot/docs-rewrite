@@ -2,10 +2,16 @@
 
 In this Wiki you'll find all the resources and documentation necessary to learn how to configure Filo and how it behaves. You'll also find examples to support the documentation and some topics of interest that document curiosities or extra information.
 
-This Wiki is under constant development and its content may change without notice. If you want to make a contribution, **[contact us]({{LINKS_MAIN}}/discord)**.
-
 > If you need help or require any additional clarification, **[contact us]({{LINKS_MAIN}}/discord)**.
 {.is-info}
+
+## Contributions
+
+All of our documentation is hosted on GitHub :heart: and we openly accept contributions. If you find any bugs, open an issue **[here]({{LINKS_GITHUB_DOCS_REPO}}/issues/new)** and if you want to contribute, **[fork the repository]({{LINKS_GITHUB_DOCS_REPO}}/fork)**, make your changes to it, and open a **[]({{LINKS_GITHUB_REPO}}/pulls/compare)**.
+
+### Acknowledgments to the Contributors
+
+![Image with the Avatars of the Contributors](https://contrib.rocks/image?repo={{GITHUB_DOCS_REPO}})
 
 ## About Filo
 
