@@ -38,7 +38,7 @@ On some pages it is possible that you will find some important characters or key
 
 # Contributions
 
-All of our documentation is hosted on GitHub :heart: and we openly accept contributions. If you find any bugs, open an issue **[here]({{LINKS_GITHUB_DOCS_REPO}}/issues/new)** and if you want to contribute, **[fork the repository]({{LINKS_GITHUB_DOCS_REPO}}/fork)**, make your changes to it, and open a **[]({{LINKS_GITHUB_REPO}}/pulls/compare)**.
+All of our documentation is hosted on GitHub :heart: and we openly accept contributions. If you find any bugs, open an issue **[here]({{LINKS_GITHUB_DOCS_REPO}}/issues/new)** and if you want to contribute, **[fork the repository]({{LINKS_GITHUB_DOCS_REPO}}/fork)**, make your changes to it, and open a **[pull request]({{LINKS_GITHUB_REPO}}/pulls/compare)**.
 
 Before opening a pull request, please read our **[Contribution]({{LINKS_GITHUB_DOCS_REPO}}/blob/main/.github/CONTRIBUTING.md)** guidelines and **[Code of Conduct]({{LINKS_GITHUB_DOCS_REPO}}/blob/main/.github/CODE_OF_CONDUCT.md)**.
 
