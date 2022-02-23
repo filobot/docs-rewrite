@@ -9,7 +9,11 @@ In this Wiki you'll find all the resources and documentation necessary to learn 
 
 All of our documentation is hosted on GitHub :heart: and we openly accept contributions. If you find any bugs, open an issue **[here]({{LINKS_GITHUB_DOCS_REPO}}/issues/new)** and if you want to contribute, **[fork the repository]({{LINKS_GITHUB_DOCS_REPO}}/fork)**, make your changes to it, and open a **[]({{LINKS_GITHUB_REPO}}/pulls/compare)**.
 
+Before opening a pull request, please read our **[Contribution]({{LINKS_GITHUB_DOCS_REPO}}/blob/main/.github/CONTRIBUTING.md)** guidelines and **[Code of Conduct]({{LINKS_GITHUB_DOCS_REPO}}/blob/main/.github/CODE_OF_CONDUCT.md)**.
+
 ### Acknowledgments to the Contributors
+
+Thanks to all the people who have contributed their grain of sand by providing fixes and improvements to this documentation. :heart:
 
 ![Image with the Avatars of the Contributors](https://contrib.rocks/image?repo={{GITHUB_DOCS_REPO}})
 
