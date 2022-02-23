@@ -1,3 +1,7 @@
+- - -
+title: Invite published: true editor: markdown
+- - -
+
 Here you'll learn how to invite Filo to your Discord server in two different ways.
 
 > You must be the **owner of the server** where you want to invite Filo, or you must have at least one of the following permissions: **Administrator** or **Manage Server**. More information about permissions **[here](https://support.discord.com/hc/en-us/articles/206029707)**. 
@@ -10,7 +14,7 @@ Here you'll learn how to invite Filo to your Discord server in two different way
 > 
 > {.is-info}
 
-# Way #1: Through the invite of the web
+# Way #1: Through the web invite
 
 ## Open the web invite
 
@@ -32,7 +36,11 @@ Click the **Select a server** selection menu and then select the server where yo
 
 ## Customize permissions (Optional)
 
-Customize the permissions of the invite, this will create a role with the name **Filo**. If you decide to disable all permissions, this won't create the role and you'll have to manually assign permissions yourself.
+Customize the permissions of the invite, this will create a integration role[^1] with the name **Filo**. If you decide to disable all permissions, this won't create the integration role<sup id="fnref2:1"><a href="#fn:1" class="footnote-ref">1</a></sup> and you'll have to manually assign permissions yourself.
+
+> If your server has **250 roles or more**, the Filo integration role<sup id="fnref3:1"><a href="#fn:1" class="footnote-ref">1</a></sup> won't be created. 
+> 
+> {.is-warning}
 
 > Filo needs at least **View Channels** permission on the channel where the commands are executed. 
 > 
@@ -41,3 +49,5 @@ Customize the permissions of the invite, this will create a role with the name *
 ## Authorize the invite
 
 You're ready? Don't you forget anything? Perfect! Now you have to do the honors of authorizing Filo's invite by clicking the **Authorize** button.
+
+[^1]: Role that can't be assigned to any other user, nor can it be deleted once it has been created.[&#8617;](#fnref2:1){.footnote-backref} [&#8617;](#fnref3:1){.footnote-backref}
