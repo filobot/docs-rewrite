@@ -1,8 +1,14 @@
+---
+title: Home
+published: true
+editor: markdown
+---
+
 # Welcome to the Filo Wiki!
 
 In this Wiki you'll find all the resources and documentation necessary to learn how to configure Filo and how it behaves. You'll also find examples to support the documentation and some topics of interest that document curiosities or extra information.
 
-> If you need help or require any additional clarification, **[contact us]({{LINKS_MAIN}}/discord)**.
+> If you need help or require any additional clarification, **[contact us](https://filobot.xyz/discord)**.
 {.is-info}
 
 ## About Filo
@@ -11,12 +17,12 @@ Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. F
 
 ## Helpful Links
 
-- [Website]({{LINKS_MAIN}}).
-- [Donate]({{LINKS_MAIN}}/donate).
-- [Blog]({{LINKS_BLOG}}).
-- [Discord Server]({{LINKS_MAIN}}/discord).
+- [Website](https://filobot.xyz).
+- [Donate](https://filobot.xyz/donate).
+- [Blog](https://blog.filobot.xyz).
+- [Discord Server](https://filobot.xyz/discord).
 - [Twitter](https://twitter.com/FiloDiscord).
-- [Vote]({{LINKS_MAIN}}/vote).
+- [Vote](https://filobot.xyz/vote).
 
 # Wiki keys
 
@@ -38,9 +44,9 @@ On some pages it is possible that you will find some important characters or key
 
 # Contributions
 
-All of our documentation is hosted on GitHub :heart: and we openly accept contributions. If you find any bugs, open an issue **[here]({{LINKS_GITHUB_DOCS_REPO}}/issues/new)** and if you want to contribute, **[fork the repository]({{LINKS_GITHUB_DOCS_REPO}}/fork)**, make your changes to it, and open a **[pull request]({{LINKS_GITHUB_DOCS_REPO}}/pulls/compare)**.
+All of our documentation is hosted on GitHub :heart: and we openly accept contributions. If you find any bugs, open an issue **[here](https://github.com/filobot/docs-rewrite/issues/new)** and if you want to contribute, **[fork the repository](https://github.com/filobot/docs-rewrite/fork)**, make your changes to it, and open a **[pull request](https://github.com/filobot/docs-rewrite/pulls/compare)**.
 
-Before opening a pull request, please read our **[Contribution]({{LINKS_GITHUB_DOCS_REPO}}/blob/main/.github/CONTRIBUTING.md)** guidelines and **[Code of Conduct]({{LINKS_GITHUB_DOCS_REPO}}/blob/main/.github/CODE_OF_CONDUCT.md)**.
+Before opening a pull request, please read our **[Contribution](https://github.com/filobot/docs-rewrite/blob/main/.github/CONTRIBUTING.md)** guidelines and **[Code of Conduct](https://github.com/filobot/docs-rewrite/blob/main/.github/CODE_OF_CONDUCT.md)**.
 
 ## Markdown Syntax
 
@@ -48,7 +54,7 @@ This repository uses a specific Markdown for the final version of the documentat
 
 ## Documentation Variables
 
-Our documentation contains variables that are translated into data in the **[stable branch]({{LINKS_GITHUB_DOCS_REPO}}/tree/stable)**. Below is a non-exhaustive list of these variables:
+Our documentation contains variables that are translated into data in the **[stable branch](https://github.com/filobot/docs-rewrite/tree/stable)**. Below is a non-exhaustive list of these variables:
 ```json
 {
   "GITHUB": {
@@ -76,4 +82,4 @@ Our documentation contains variables that are translated into data in the **[sta
 
 Thanks to all the people who have contributed their grain of sand by providing fixes and improvements to this documentation. :heart:
 
-![Image with the Avatars of the Contributors](https://contrib.rocks/image?repo={{GITHUB_DOCS_REPO}})
+![Image with the Avatars of the Contributors](https://contrib.rocks/image?repo=filobot/docs-rewrite)

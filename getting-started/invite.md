@@ -1,3 +1,9 @@
+---
+title: Invite
+published: true
+editor: markdown
+---
+
 Here you'll learn how to invite Filo to your Discord server in two different ways.
 
 > You must be the **owner of the server** where you want to invite Filo, or you must have at least one of the following permissions: **Administrator** or **Manage Server**. More information about permissions **[here](https://support.discord.com/hc/en-us/articles/206029707)**.
@@ -6,14 +12,14 @@ Here you'll learn how to invite Filo to your Discord server in two different way
 **Is it too complicated? Don't worry!**
 You can check **[this video](https://www.youtube.com/watch?v=1kCAgpOw-g0)** to learn how to invite Filo.
 
-> By inviting Filo you agree to our **[Terms and Conditions]({{LINKS_MAIN}}/terms)** and **[Privacy Policy]({{LINKS_MAIN}}/privacy)**.
+> By inviting Filo you agree to our **[Terms and Conditions](https://filobot.xyz/terms)** and **[Privacy Policy](https://filobot.xyz/privacy)**.
 {.is-info}
 
 # Way #1: Through the invite of the web
 
 ## Open the web invite
 
-By **[clicking here]({{LINKS_MAIN}}/invite)** you'll be redirected to the invite of our website with the recommended permissions\*.
+By **[clicking here](https://filobot.xyz/invite)** you'll be redirected to the invite of our website with the recommended permissions\*.
 
 \* You'll be able to modify these permissions later.
 
