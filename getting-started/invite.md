@@ -37,6 +37,7 @@ If you decide to disable all permissions, this won't create the integration role
 \* An integration role is a role that can't be assigned to another user or bot on the server.
 
 > If your server has **250 roles or more**, the Filo integration role won't be created.
+{.is-warning}
 
 > Filo needs at least **View Channels** permission on the channel where the commands are executed.
 {.is-danger}
