@@ -5,18 +5,6 @@ In this Wiki you'll find all the resources and documentation necessary to learn 
 > If you need help or require any additional clarification, **[contact us]({{LINKS_MAIN}}/discord)**.
 {.is-info}
 
-## Contributions
-
-All of our documentation is hosted on GitHub :heart: and we openly accept contributions. If you find any bugs, open an issue **[here]({{LINKS_GITHUB_DOCS_REPO}}/issues/new)** and if you want to contribute, **[fork the repository]({{LINKS_GITHUB_DOCS_REPO}}/fork)**, make your changes to it, and open a **[]({{LINKS_GITHUB_REPO}}/pulls/compare)**.
-
-Before opening a pull request, please read our **[Contribution]({{LINKS_GITHUB_DOCS_REPO}}/blob/main/.github/CONTRIBUTING.md)** guidelines and **[Code of Conduct]({{LINKS_GITHUB_DOCS_REPO}}/blob/main/.github/CODE_OF_CONDUCT.md)**.
-
-### Acknowledgments to the Contributors
-
-Thanks to all the people who have contributed their grain of sand by providing fixes and improvements to this documentation. :heart:
-
-![Image with the Avatars of the Contributors](https://contrib.rocks/image?repo={{GITHUB_DOCS_REPO}})
-
 ## About Filo
 
 Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. Featuring a wide range of admin and moderation modules to make things easier for you.
@@ -47,3 +35,45 @@ On some pages it is possible that you will find some important characters or key
 {.is-danger}
 
 `[]` This represents optional arguments `<>` This represents required arguments
+
+# Contributions
+
+All of our documentation is hosted on GitHub :heart: and we openly accept contributions. If you find any bugs, open an issue **[here]({{LINKS_GITHUB_DOCS_REPO}}/issues/new)** and if you want to contribute, **[fork the repository]({{LINKS_GITHUB_DOCS_REPO}}/fork)**, make your changes to it, and open a **[]({{LINKS_GITHUB_REPO}}/pulls/compare)**.
+
+Before opening a pull request, please read our **[Contribution]({{LINKS_GITHUB_DOCS_REPO}}/blob/main/.github/CONTRIBUTING.md)** guidelines and **[Code of Conduct]({{LINKS_GITHUB_DOCS_REPO}}/blob/main/.github/CODE_OF_CONDUCT.md)**.
+
+## Markdown Syntax
+
+This repository uses a specific Markdown for the final version of the documentation. You can check out an extensive guide on Markdown variables **[here](https://docs.requarks.io/en/editors/markdown)**.
+
+## Documentation Variables
+
+Our documentation contains variables that are translated into data in the **[stable branch]({{LINKS_GITHUB_DOCS_REPO}}/tree/stable)**. Below is a non-exhaustive list of these variables:
+```json
+{
+  "GITHUB": {
+    "DOCS_REPO": "filobot/docs"
+  },
+  "LINKS": {
+    "API": "https://api.filobot.xyz",
+    "BLOG": "https://blog.filobot.xyz",
+    "CANARY": "https://canary.filobot.xyz",
+    "CDN": "https://cdn.filobot.xyz",
+    "ERROR": "https://error.filobot.xyz",
+    "LINK_SHORTENER": "https://r.filobot.xyz",
+    "MAIN": "https://filobot.xyz",
+    "PASTE": "https://paste.filobot.xyz",
+    "PUBLIC_API": "https://public-api.filobot.xyz",
+    "STATS": "https://stats.filobot.xyz",
+    "STATUS": "https://status.filobot.xyz",
+    "WIKI": "https://wiki.filobot.xyz",
+    "WWW": "https://www.filobot.xyz"
+  }
+}
+```
+
+## Acknowledgments to the Contributors
+
+Thanks to all the people who have contributed their grain of sand by providing fixes and improvements to this documentation. :heart:
+
+![Image with the Avatars of the Contributors](https://contrib.rocks/image?repo={{GITHUB_DOCS_REPO}})
