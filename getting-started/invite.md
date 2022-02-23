@@ -31,12 +31,10 @@ Click the **Select a server** selection menu and then select the server where yo
 
 ## Customize permissions (Optional)
 
-Customize the permissions of the invite, this will create a integration role\* with the name **Filo**.
-If you decide to disable all permissions, this won't create the integration role\* and you'll have to manually assign permissions yourself.
+Customize the permissions of the invite, this will create a integration role[^1] with the name **Filo**.
+If you decide to disable all permissions, this won't create the integration role[^1] and you'll have to manually assign permissions yourself.
 
-\* An integration role is a role that can't be assigned to another user or bot on the server.
-
-> If your server has **250 roles or more**, the Filo integration role won't be created.
+> If your server has **250 roles or more**, the Filo integration role[^1] won't be created.
 {.is-warning}
 
 > Filo needs at least **View Channels** permission on the channel where the commands are executed.
@@ -46,3 +44,5 @@ If you decide to disable all permissions, this won't create the integration role
 
 You're ready? Don't you forget anything? Perfect!
 Now you have to do the honors of authorizing Filo's invite by clicking the **Authorize** button.
+
+[^1]: Role that can't be assigned to any other user, nor can it be deleted once it has been created.
