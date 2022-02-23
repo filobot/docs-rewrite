@@ -9,7 +9,7 @@ You can check **[this video](https://www.youtube.com/watch?v=1kCAgpOw-g0)** to l
 > By inviting Filo you agree to our **[Terms and Conditions]({{LINKS_MAIN}}/terms)** and **[Privacy Policy]({{LINKS_MAIN}}/privacy)**.
 {.is-info}
 
-# Way #1: Through the invite of the web
+# Way #1: Through the web invite
 
 ## Open the web invite
 
