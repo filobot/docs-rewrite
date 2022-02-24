@@ -48,29 +48,7 @@ This repository uses a specific Markdown for the final version of the documentat
 
 ## Documentation Variables
 
-Our documentation contains variables that are translated into data in the **[stable branch]({{LINKS_GITHUB_DOCS_REPO}}/tree/stable)**. Below is a non-exhaustive list of these variables:
-```json
-{
-  "GITHUB": {
-    "DOCS_REPO": "filobot/docs"
-  },
-  "LINKS": {
-    "API": "https://api.filobot.xyz",
-    "BLOG": "https://blog.filobot.xyz",
-    "CANARY": "https://canary.filobot.xyz",
-    "CDN": "https://cdn.filobot.xyz",
-    "ERROR": "https://error.filobot.xyz",
-    "LINK_SHORTENER": "https://r.filobot.xyz",
-    "MAIN": "https://filobot.xyz",
-    "PASTE": "https://paste.filobot.xyz",
-    "PUBLIC_API": "https://public-api.filobot.xyz",
-    "STATS": "https://stats.filobot.xyz",
-    "STATUS": "https://status.filobot.xyz",
-    "WIKI": "https://wiki.filobot.xyz",
-    "WWW": "https://www.filobot.xyz"
-  }
-}
-```
+Our documentation contains variables that are translated into data in the **[stable branch]({{LINKS_GITHUB_DOCS_REPO}}/tree/stable)**. By **[clicking here]({{LINKS_GITHUB_DOCS_REPO}}/blob/main/assets/variables.json)** you can see all the available variables.
 
 ## Acknowledgments to the Contributors
 
