@@ -2,11 +2,11 @@
 title: Home published: true editor: markdown
 - - -
 
-# Welcome to the Filo Wiki!
+# ¡Bienvenido a la Wiki de Filo!
 
-In this Wiki you'll find all the resources and documentation necessary to learn how to configure Filo and how it behaves. You'll also find examples to support the documentation and some topics of interest that document curiosities or extra information.
+En esta Wiki encontrarás todos los recursos y documentación necesarios para aprender a configurar a Filo y cómo se comporta. También encontrarás ejemplos para soportar la documentación y algunos temas de interés que documentan curiosidades o información adicional.
 
-> If you need help or require any additional clarification, **[contact us](https://filobot.xyz/discord)**. 
+> Si necesitas ayuda o necesitas alguna aclaración adicional, **[contáctanos](https://filobot.xyz/discord)**. 
 > 
 > {.is-info}
 
