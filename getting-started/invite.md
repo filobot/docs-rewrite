@@ -1,13 +1,13 @@
 Here you'll learn how to invite Filo to your Discord server in two different ways.
 
 > You must be the **owner of the server** where you want to invite Filo, or you must have at least one of the following permissions: **Administrator** or **Manage Server**. More information about permissions **[here](https://support.discord.com/hc/en-us/articles/206029707)**.
-{.is-warning}
+> {.is-warning}
 
 **Is it too complicated? Don't worry!**
 You can check **[this video](https://www.youtube.com/watch?v=1kCAgpOw-g0)** to learn how to invite Filo.
 
 > By inviting Filo you agree to our **[Terms and Conditions]({{LINKS_MAIN}}/terms)** and **[Privacy Policy]({{LINKS_MAIN}}/privacy)**.
-{.is-info}
+> {.is-info}
 
 # Way #1: Through the web invite
 
@@ -35,10 +35,10 @@ Customize the permissions of the invite, this will create a integration role[^1]
 If you decide to disable all permissions, this won't create the integration role[^1] and you'll have to manually assign permissions yourself.
 
 > If your server has **250 roles or more**, the Filo integration role[^1] won't be created.
-{.is-warning}
+> {.is-warning}
 
 > Filo needs at least **View Channels** permission on the channel where the commands are executed.
-{.is-danger}
+> {.is-danger}
 
 ## Authorize the invite
 
