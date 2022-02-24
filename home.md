@@ -3,7 +3,7 @@
 In this Wiki you'll find all the resources and documentation necessary to learn how to configure Filo and how it behaves. You'll also find examples to support the documentation and some topics of interest that document curiosities or extra information.
 
 > If you need help or require any additional clarification, **[contact us]({{LINKS_MAIN}}/discord)**.
-{.is-info}
+> {.is-info}
 
 ## About Filo
 
@@ -23,16 +23,16 @@ Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. F
 On some pages it is possible that you will find some important characters or keys that you must take into account to understand the information that is exposed. These characters or keys are:
 
 > Informative notes will be displayed in a box similar to this one.
-{.is-info}
+> {.is-info}
 
 > Recommendations will be displayed in a box similar to this one.
-{.is-success}
+> {.is-success}
 
 > Warnings will be displayed in a box similar to this one.
-{.is-warning}
+> {.is-warning}
 
 > Alerts and important information will be displayed in a box similar to this one.
-{.is-danger}
+> {.is-danger}
 
 `[]` This represents optional arguments `<>` This represents required arguments
 
@@ -76,4 +76,4 @@ Our documentation contains variables that are translated into data in the **[sta
 
 Thanks to all the people who have contributed their grain of sand by providing fixes and improvements to this documentation. :heart:
 
-![Image with the Avatars of the Contributors](https://contrib.rocks/image?repo={{GITHUB_DOCS_REPO}})
+![](https://contrib.rocks/image?repo={{GITHUB_DOCS_REPO}})
