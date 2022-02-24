@@ -1,3 +1,4 @@
+<!-- TITLE: Invite -->
 Here you'll learn how to invite Filo to your Discord server in two different ways.
 
 > Debes ser el **dueño del servidor** donde quieres invitar a Filo, o debe tener al menos uno de los siguientes permisos: **Administrador** o **Administrar Servidor**. Más información sobre los permisos **[aquí](https://support.discord.com/hc/en-us/articles/206029707)**.
