@@ -1,0 +1,21 @@
+{
+  "GITHUB": {
+    "DOCS_REPO": "filobot/docs-rewrite"
+  },
+  "LINKS": {
+    "API": "https://api.filobot.xyz",
+    "BLOG": "https://blog.filobot.xyz",
+    "CANARY": "https://canary.filobot.xyz",
+    "CDN": "https://cdn.filobot.xyz",
+    "ERROR": "https://error.filobot.xyz",
+    "GITHUB_DOCS_REPO": "https://github.com/filobot/docs-rewrite",
+    "LINK_SHORTENER": "https://r.filobot.xyz",
+    "MAIN": "https://filobot.xyz",
+    "PASTE": "https://paste.filobot.xyz",
+    "PUBLIC_API": "https://public-api.filobot.xyz",
+    "STATS": "https://stats.filobot.xyz",
+    "STATUS": "https://status.filobot.xyz",
+    "WIKI": "https://wiki.filobot.xyz",
+    "WWW": "https://www.filobot.xyz"
+  }
+}
