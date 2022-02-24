@@ -8,6 +8,16 @@ If you find any bugs, open an issue **[here][GITHUB_DOCS_REPO_ISSUES]** and if y
 
 Before opening a pull request, please read our **[Contribution][GITHUB_DOCS_REPO_CONTRIBUTING]** guidelines and **[Code of Conduct][GITHUB_DOCS_REPO_CODE_OF_CONDUCT]**.
 
+### Translations
+
+The documentation described in this branch of the repository must always prevail in English.
+
+If you would like to help by providing translations of this documentation, you may want to take a look at our Wiki translation program by **[clicking here](https://crowdin.com/project/filobot-wiki)**.
+
+**Doesn't your language exist in our translation program?**
+
+**[Contact us](https://filobot.xyz/discord)** to be added to the list of target languages.
+
 ## Markdown Syntax
 
 This repository uses a specific Markdown for the final version of the documentation. You can check out an extensive guide on Markdown variables **[here](https://docs.requarks.io/en/editors/markdown)**.
