@@ -10,7 +10,7 @@ Before opening a pull request, please read our **[Contribution][GITHUB_DOCS_REPO
 
 ### Translations
 
-The documentation described in this branch of the repository must always prevail in English.
+The documentation described in this branch of the repository must always prevail in **English**.
 
 If you would like to help by providing translations of this documentation, you may want to take a look at our Wiki translation program by **[clicking here](https://crowdin.com/project/filobot-wiki)**.
 
