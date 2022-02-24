@@ -1,15 +1,9 @@
----
-title: Home
-published: true
-editor: markdown
----
-
 # Welcome to the Filo Wiki!
 
 In this Wiki you'll find all the resources and documentation necessary to learn how to configure Filo and how it behaves. You'll also find examples to support the documentation and some topics of interest that document curiosities or extra information.
 
 > If you need help or require any additional clarification, **[contact us](https://filobot.xyz/discord)**.
-{.is-info}
+> {.is-info}
 
 ## About Filo
 
@@ -29,16 +23,16 @@ Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. F
 On some pages it is possible that you will find some important characters or keys that you must take into account to understand the information that is exposed. These characters or keys are:
 
 > Informative notes will be displayed in a box similar to this one.
-{.is-info}
+> {.is-info}
 
 > Recommendations will be displayed in a box similar to this one.
-{.is-success}
+> {.is-success}
 
 > Warnings will be displayed in a box similar to this one.
-{.is-warning}
+> {.is-warning}
 
 > Alerts and important information will be displayed in a box similar to this one.
-{.is-danger}
+> {.is-danger}
 
 `[]` This represents optional arguments `<>` This represents required arguments
 
@@ -54,32 +48,10 @@ This repository uses a specific Markdown for the final version of the documentat
 
 ## Documentation Variables
 
-Our documentation contains variables that are translated into data in the **[stable branch](https://github.com/filobot/docs-rewrite/tree/stable)**. Below is a non-exhaustive list of these variables:
-```json
-{
-  "GITHUB": {
-    "DOCS_REPO": "filobot/docs"
-  },
-  "LINKS": {
-    "API": "https://api.filobot.xyz",
-    "BLOG": "https://blog.filobot.xyz",
-    "CANARY": "https://canary.filobot.xyz",
-    "CDN": "https://cdn.filobot.xyz",
-    "ERROR": "https://error.filobot.xyz",
-    "LINK_SHORTENER": "https://r.filobot.xyz",
-    "MAIN": "https://filobot.xyz",
-    "PASTE": "https://paste.filobot.xyz",
-    "PUBLIC_API": "https://public-api.filobot.xyz",
-    "STATS": "https://stats.filobot.xyz",
-    "STATUS": "https://status.filobot.xyz",
-    "WIKI": "https://wiki.filobot.xyz",
-    "WWW": "https://www.filobot.xyz"
-  }
-}
-```
+Our documentation contains variables that are translated into data in the **[stable branch](https://github.com/filobot/docs-rewrite/tree/stable)**. By **[clicking here](https://github.com/filobot/docs-rewrite/blob/main/assets/variables.json)** you can see all the available variables.
 
 ## Acknowledgments to the Contributors
 
 Thanks to all the people who have contributed their grain of sand by providing fixes and improvements to this documentation. :heart:
 
-![Image with the Avatars of the Contributors](https://contrib.rocks/image?repo=filobot/docs-rewrite)
+![](https://contrib.rocks/image?repo=filobot/docs-rewrite)
