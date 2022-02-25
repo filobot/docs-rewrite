@@ -23,7 +23,7 @@ Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. F
 
 En algunas páginas es posible que encuentres algunos caracteres o claves importantes que debes tener en cuenta para entender la información que se está exponiendo. Estos caracteres o claves son:
 
-> Informative notes will be displayed in a box similar to this one.
+> Las notas informativas se mostrarán en una caja similar a esta.
   {.is-info}
 
 > Las recomendaciones se mostrarán en una caja similar a esta.
