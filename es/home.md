@@ -8,7 +8,7 @@ En esta Wiki encontrarás todos los recursos y documentación necesarios para ap
 
 ## Acerca de Filo
 
-Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. Featuring a wide range of admin and moderation modules to make things easier for you.
+Filo es una potente bot multipropósito de Discord que sirve a los gremios de Discord desde 2019. Contando con una amplia gama de módulos de administración y moderación para facilitarte las cosas.
 
 ## Enlaces Útiles
 
