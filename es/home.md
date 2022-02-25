@@ -1,9 +1,9 @@
 <!-- TITLE: Home -->
 # ¡Bienvenido a la Wiki de Filo!
 
-In this Wiki you'll find all the resources and documentation necessary to learn how to configure Filo and how it behaves. You'll also find examples to support the documentation and some topics of interest that document curiosities or extra information.
+En esta Wiki encontrarás todos los recursos y documentación necesarios para aprender a configurar a Filo y cómo se comporta. También encontrarás ejemplos para soportar la documentación y algunos temas de interés que documentan curiosidades o información adicional.
 
-> If you need help or require any additional clarification, **[contact us](https://filobot.xyz/discord)**.
+> Si necesitas ayuda o necesitas alguna aclaración adicional, **[contáctanos](https://filobot.xyz/discord)**.
   {.is-info}
 
 ## Acerca de Filo
@@ -21,38 +21,38 @@ Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. F
 
 # Claves de la Wiki
 
-On some pages it is possible that you will find some important characters or keys that you must take into account to understand the information that is exposed. These characters or keys are:
+En algunas páginas es posible que encuentres algunos caracteres o claves importantes que debes tener en cuenta para entender la información que se está exponiendo. Estos caracteres o claves son:
 
 > Informative notes will be displayed in a box similar to this one.
   {.is-info}
 
-> Recommendations will be displayed in a box similar to this one.
+> Las recomendaciones se mostrarán en una caja similar a esta.
   {.is-success}
 
-> Warnings will be displayed in a box similar to this one.
+> Las advertencias se mostrarán en una caja similar a esta.
   {.is-warning}
 
-> Alerts and important information will be displayed in a box similar to this one.
+> Las alertas e información importante se mostrarán en una caja similar a esta.
   {.is-danger}
 
-`[]` This represents optional arguments `<>` This represents required arguments
+`[]` Esto representa argumentos opcionales `<>` Esto representa los argumentos requeridos
 
 # Contribuciones
 
-All of our documentation is hosted on GitHub :heart: and we openly accept contributions. If you find any bugs, open an issue **[here](https://github.com/filobot/docs-rewrite/issues/new)** and if you want to contribute, **[fork the repository](https://github.com/filobot/docs-rewrite/fork)**, make your changes to it, and open a **[pull request](https://github.com/filobot/docs-rewrite/pulls/compare)**.
+Toda nuestra documentación está alojada en GitHub :heart: y aceptamos abiertamente contribuciones. Si encuentras algún error, abre una incidencia **[aquí](https://github.com/filobot/docs-rewrite/issues/new)** y si quieres contribuir, **[bifurcar el repositorio](https://github.com/filobot/docs-rewrite/fork)**, haga sus cambios en él, y abre una **[solicitud de fusión](https://github.com/filobot/docs-rewrite/pulls/compare)**.
 
-Before opening a pull request, please read our **[Contribution](https://github.com/filobot/docs-rewrite/blob/main/.github/CONTRIBUTING.md)** guidelines and **[Code of Conduct](https://github.com/filobot/docs-rewrite/blob/main/.github/CODE_OF_CONDUCT.md)**.
+Antes de abrir una solicitud de fusión, por favor lea nuestras directrices de **[Contribución](https://github.com/filobot/docs-rewrite/blob/main/.github/CONTRIBUTING.md)** y **[Código de conducta](https://github.com/filobot/docs-rewrite/blob/main/.github/CODE_OF_CONDUCT.md)**.
 
 ## Sintaxis Markdown
 
-This repository uses a specific Markdown for the final version of the documentation. You can check out an extensive guide on Markdown variables **[here](https://docs.requarks.io/en/editors/markdown)**.
+Este repositorio utiliza un Markdown específico para la versión final de la documentación. Puede consultar una guía extensa sobre las variables Markdown **[aquí](https://docs.requarks.io/en/editors/markdown)**.
 
 ## Variables de la Documentación
 
-Our documentation contains variables that are translated into data in the **[stable branch](https://github.com/filobot/docs-rewrite/tree/stable)**. By **[clicking here](https://github.com/filobot/docs-rewrite/blob/main/assets/variables.json)** you can see all the available variables.
+Nuestra documentación contiene variables que se traducen a datos en la **[rama stable](https://github.com/filobot/docs-rewrite/tree/stable)**. Haciendo **[clic aquí](https://github.com/filobot/docs-rewrite/blob/main/assets/variables.json)** puedes ver todas las variables disponibles.
 
 ## Reconocimiento a los Contribuidores
 
-Thanks to all the people who have contributed their grain of sand by providing fixes and improvements to this documentation. :heart:
+Gracias a todas las personas que han contribuido con su grano de arena proporcionando correcciones y mejoras a esta documentación. :heart:
 
 ![](https://contrib.rocks/image?repo=filobot/docs-rewrite)
