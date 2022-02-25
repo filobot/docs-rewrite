@@ -1,10 +1,10 @@
 <!-- TITLE: Invite -->
-Here you'll learn how to invite Filo to your Discord server in two different ways.
+Aquí aprenderás cómo invitar a Filo a tu servidor de Discord de dos maneras diferentes.
 
 > Debes ser el **dueño del servidor** donde quieres invitar a Filo, o debe tener al menos uno de los siguientes permisos: **Administrador** o **Administrar Servidor**. Más información sobre los permisos **[aquí](https://support.discord.com/hc/en-us/articles/206029707)**.
   {.is-warning}
 
-**Is it too complicated? Don't worry!** You can check **[this video](https://www.youtube.com/watch?v=1kCAgpOw-g0)** to learn how to invite Filo.
+**¿Es demasiado complicado? ¡No te preocupes!** Puedes consultar **[este video](https://www.youtube.com/watch?v=1kCAgpOw-g0)** para aprender a invitar a Filo.
 
 > By inviting Filo you agree to our **[Terms and Conditions](https://filobot.xyz/terms)** and **[Privacy Policy](https://filobot.xyz/privacy)**.
   {.is-info}
