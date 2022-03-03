@@ -8,14 +8,12 @@ Cloudflare is one of the biggest networks operating on the Internet. People use 
 
 Cloudflare helps us keep our website safe from attackers with malicious intent and speeds up our website globally.
 
-# About Cloudflare Bans
+# About Cloudflare bans
 
 A very important task for Cloudflare is to protect us from DDoS attacks that could take our service offline, and to do this, we automate systems so that bans can be sent to attackers or devices victimized by the attacker.
 
 > We take every ban we issue very seriously, and we won't hesitate to prioritize protecting ourselves in these types of situations.
 > {.is-info}
-
-## What's a Cloudflare ban?
 
 There are two types of bans that we make use of:
 - **Temporary bans**: Responded with the code 403 followed by the message "Access Denied".
@@ -67,7 +65,7 @@ Our service has two types of rate limits:
 - **Individual or specific** (API): They are different for each endpoint and restrictive in the short term. Exceeding these ratelimits doesn't result in a Cloudflare ban.
 - **Global or common** (Generic): They are the same for each endpoint and restrictive in the long term. Exceeding these ratelimits does result in a Cloudflare ban.
 
-Respect the ratelimits regardless of what they are. The API isn't publicly accessible, so we don't expect you to use it, but if you do, check the "X-RateLimit" headers to make sure you respect the rate limits.
+Respect the ratelimits regardless of what they are. The API isn't publicly accessible, so we don't expect you to use it, but if you do, check the `X-RateLimit` headers to make sure you respect the rate limits.
 
 > If you repeatedly receive a **429 errors**, there is a good chance that a Cloudflare ban will be issued. If it happens frequently you'll receive a permanent Cloudflare ban.
 > .{is-danger}
