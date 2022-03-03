@@ -4,17 +4,24 @@ Here you'll find non-exhaustive information on how Cloudflare works in our domai
 
 Cloudflare is one of the biggest networks operating on the Internet. People use Cloudflare services for the purposes of increasing the security and performance of their web sites and services.
 
-## How does Cloudflare help Filo?
+## How does Cloudflare help us?
 
-Cloudflare helps Filo by protecting its website and API from malicious people.
+Cloudflare helps us keep our website safe from attackers with malicious intent and speeds up our website globally.
 
-# Cloudflare bans
+# About Cloudflare Bans
 
-It's essential that we protect our website from people with malicious intent, for this we are using bans on Cloudflare. Below you'll find information about these bans and how they can affect you.
+A very important task for Cloudflare is to protect us from DDoS attacks that could take our service offline, and to do this, we automate systems so that bans can be sent to attackers or devices victimized by the attacker.
+
+> We take every ban we issue very seriously, and we won't hesitate to prioritize protecting ourselves in these types of situations.
+> {.is-info}
 
 ## What's a Cloudflare ban?
 
-A Cloudflare ban is a sanction that will deny you access to our website. The ban can be given by:
+There are two types of prohibitions that we make use of:
+- **[Temporary bans]()**: Responded with the code 403 followed by the message "The owner of the website has banned your IP address.".
+- **[Permanent bans]()**: Responded with The code 403 followed by the message "Access Denied. This website uses Cloudflare to protect itself from attacks.".
+
+Objects that can be banned:
 - Your IP address.
 - Your ISP[^1].
 - Your IP address range[^2].
@@ -22,11 +29,25 @@ A Cloudflare ban is a sanction that will deny you access to our website. The ban
 - Your country.
 - The type of browser [🕵️](https://www.torproject.org/) you use.
 
-## How can I identify a Cloudflare ban?
+> When a ban is issued, you are prohibited from accessing any services or pages on our website while the ban is in effect.
+> {.is-danger}
 
-You'll be able to quickly identify a Cloudflare ban, because you'll receive a 403 error followed by an error page titled "Access Denied".
+### Temporary bans
 
-<p align=center><img src="https://raw.githubusercontent.com/filobot/docs/main/resources/Cloudflare%20ban.png" alt="" /><br>
+These are bans that typically expire after **1 hour** of being issued.
+
+> These sanctions can't be appealed.
+> {.is-danger}
+
+### Permanent bans
+
+These bans never expire once they are issued.
+
+> If you think your ban is wrong, please **[contact us]()**.
+> {.is-info}
+
+> Making an appeal doesn't ensure you'll be unbanned, it only ensures that we'll thoroughly review your case.
+> {.is-warning}
 
 # What actions are banned from Cloudflare?
 
