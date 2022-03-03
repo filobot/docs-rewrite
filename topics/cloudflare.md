@@ -17,9 +17,12 @@ A very important task for Cloudflare is to protect us from DDoS attacks that cou
 
 ## What's a Cloudflare ban?
 
-There are two types of prohibitions that we make use of:
+There are two types of bans that we make use of:
 - **[Temporary bans]()**: Responded with the code 403 followed by the message "The owner of the website has banned your IP address.".
 - **[Permanent bans]()**: Responded with The code 403 followed by the message "Access Denied. This website uses Cloudflare to protect itself from attacks.".
+
+> In some situations, a [captcha](https://www.hcaptcha.com) may be required before accessing our website, as an alternative to Cloudflare bans.
+> {.is-info}
 
 Objects that can be banned:
 - Your IP address.
@@ -28,6 +31,8 @@ Objects that can be banned:
 - The User-Agent of your browser.
 - Your country.
 - The type of browser [🕵️](https://www.torproject.org/) you use.
+
+\* Not all objects are mentioned here.
 
 > When a ban is issued, you are banned from accessing any services or pages on our website while the ban is in effect.
 > {.is-danger}
