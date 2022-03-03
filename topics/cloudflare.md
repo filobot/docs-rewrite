@@ -23,13 +23,13 @@ There are two types of prohibitions that we make use of:
 
 Objects that can be banned:
 - Your IP address.
-- Your ISP[^1].
+- Your Internet Service Provider[^1].
 - Your IP address range[^2].
-- Your User-Agent.
+- The User-Agent of your browser.
 - Your country.
 - The type of browser [🕵️](https://www.torproject.org/) you use.
 
-> When a ban is issued, you are prohibited from accessing any services or pages on our website while the ban is in effect.
+> When a ban is issued, you are banned from accessing any services or pages on our website while the ban is in effect.
 > {.is-danger}
 
 ### Temporary bans
@@ -43,38 +43,28 @@ These are bans that typically expire after **1 hour** of being issued.
 
 These bans never expire once they are issued.
 
-> If you think your ban is wrong, please **[contact us]()**.
+> If you think your ban is unfair or wrong, appeal the ban by **[clicking here](https://forms.gle/Pdig38H5gn6XfyW76)**.
 > {.is-info}
 
 > Making an appeal doesn't ensure you'll be unbanned, it only ensures that we'll thoroughly review your case.
 > {.is-warning}
 
-# What actions are banned from Cloudflare?
+# What actions are banned?
 
 > Not all actions are listed here for security reasons.
 > {.is-warning}
 
-## Excess 429 errors[^3] in the API
+## Excess 429 errors[^3]
 
-The API has two types of rate limits:
-- Individual or specific.
-- Global or common.
+Our service has two types of rate limits:
+- **Individual or specific** (API): They are different for each endpoint and restrictive in the short term. Exceeding these ratelimits doesn't result in a Cloudflare ban.
+- **Global or common** (Generic): They are the same for each endpoint and restrictive in the long term. Exceeding these ratelimits does result in a Cloudflare ban.
 
-The individual or specific rate limits are more restrictive, but, as a consequence, exceeding this limit won't result in a ban on Cloudflare. These limits are specific to each API endpoint.
+Respect the ratelimits regardless of what they are. The API isn't publicly accessible, so we don't expect you to use it, but if you do, check the "X-RateLimit" headers to make sure you respect the rate limits.
 
-Global or common rate limits are restrictive in the long term, that's, if you make a large number of requests per minute, you'll likely receive a global rate limit.
+> If you repeatedly receive a **429 errors**, there is a good chance that a Cloudflare ban will be issued. If it happens frequently you'll receive a permanent Cloudflare ban.
+> .{is-danger}
 
-If you exceed 5 times the warning for exceeding the global request quota in less than 1 hour, your IP address will be temporarily banned for 1 hour.
-
-## Excess 429 errors[^3] in the rest of the service
-
-The rest of our website has only one type of ratelimits:
-- Global or common.
-
-Global or common rate limits are restrictive in the long term, that's, if you make a large number of requests per minute, you'll likely receive a global rate limit.
-
-If you exceed 5 times the warning for exceeding the global request quota in less than 1 hour, your IP address will be temporarily banned for 1 hour
-
-[^1]: Internet Service Provider: We refer to the company that provides you with the internet connection service.
+[^1]: We refer to the company that provides you with the internet connection service.
 [^2]: You can find out your IP address range by **[clicking here](https://www.calculator.net/ip-subnet-calculator.html)**.
 [^3]: 429 errors tell browsers and applications making requests of any kind to our website that your rate limit is being exceeded.
