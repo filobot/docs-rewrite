@@ -68,7 +68,7 @@ Our service has two types of rate limits:
 Respect the ratelimits regardless of what they are. The API isn't publicly accessible, so we don't expect you to use it, but if you do, check the `X-RateLimit` headers to make sure you respect the rate limits.
 
 > If you repeatedly receive a **429 errors**, there is a good chance that a Cloudflare ban will be issued. If it happens frequently you'll receive a permanent Cloudflare ban.
-> .{is-danger}
+> {.is-danger}
 
 [^1]: We refer to the company that provides you with the internet connection service.
 [^2]: You can find out your IP address range by **[clicking here](https://www.calculator.net/ip-subnet-calculator.html)**.
