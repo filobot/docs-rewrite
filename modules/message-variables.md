@@ -1,5 +1,3 @@
-<!-- TITLE: Message-Variables -->
-<!-- Variable List -->
 # Message Variables
 
 The variables listed below have an effect on the **[Welcomes](https://wiki.filobot.xyz/modules/welcomes)** & **[Farewells](https://wiki.filobot.xyz/modules/farewells)** modules, specifically on the Message functionality.
