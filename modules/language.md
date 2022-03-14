@@ -4,13 +4,13 @@ This module will allow you to set Filo's language on the server.
 
 ## Before starting
 
-Before you start, you must run the <kbd>/setup</kbd> command and select the **Community Modules** option.
+Before you start, you must run the <kbd>/setup</kbd> command and select the **Community modules** option.
 
-Once located at this point, select the **Language Module** option.
+Once located at this point, select the **Language** option.
 
 ## Select the language
 
-To enter the Filo's language settings menu, you must click the **Change Language** button.
+To enter the Filo's language settings menu, you must click the **Configure module** button.
 
 Now you just have to select the language, to do this click on the **Select a language** selection menu and select the language you want to set.
 
@@ -21,4 +21,4 @@ Once you have selected it, the language will be setted.
 
 ## Reset module settings
 
-To do this, click the **Reset settings** button if you want to reset the module settings.
+To do this, click the **Reset module** button if you want to reset the module settings.
