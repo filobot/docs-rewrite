@@ -1,6 +1,6 @@
 The variables listed below have an effect on the **[Welcomes](https://wiki.filobot.xyz/modules/welcomes)** & **[Farewells](https://wiki.filobot.xyz/modules/farewells)** modules, specifically on the Message functionality.
 
-## User Variables {.tabset}
+## User Variables
 
 ### \{\{@user\}\}
 
@@ -56,7 +56,7 @@ Returns the url of the user\.
 
 **Example**: https://discord.com/users/User_ID
 
-## Server Variables {.tabset}
+## Server Variables
 
 ### \{\{server\}\}
 
