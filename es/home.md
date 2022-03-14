@@ -1,4 +1,3 @@
-<!-- TITLE: Home -->
 # ¡Bienvenido a la Wiki de Filo!
 
 En esta Wiki encontrarás todos los recursos y documentación necesarios para aprender a configurar a Filo y cómo se comporta. También encontrarás ejemplos para soportar la documentación y algunos temas de interés que documentan curiosidades o información adicional.
