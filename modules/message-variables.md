@@ -1,4 +1,3 @@
-<!-- Variable List -->
 # Message Variables
 
 The variables listed below have an effect on the **[Welcomes]({{LINKS_WIKI}}/modules/welcomes)** & **[Farewells]({{LINKS_WIKI}}/modules/farewells)** modules, specifically on the Message functionality.
