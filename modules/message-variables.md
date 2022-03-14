@@ -1,276 +1,274 @@
-# Message Variables
-
 The variables listed below have an effect on the **[Welcomes](https://wiki.filobot.xyz/modules/welcomes)** & **[Farewells](https://wiki.filobot.xyz/modules/farewells)** modules, specifically on the Message functionality.
 
-## User Variables {.tabset}
+### User Variables {.tabset}
 
-### \{\{@user\}\}
+#### \{\{@user\}\}
 
 Returns the mention of the user.
 
 **Example**: @DiscordUser#0000
 
-### \{\{user.id\}\}
+#### \{\{user.id\}\}
 
 Returns the ID of the user.
 
 **Example**: 123456789123456789
 
-### \{\{user.name\}\}
+#### \{\{user.name\}\}
 
 Returns the name of the user.
 
 **Example**: DiscordUser
 
-### \{\{user.discriminator\}\}
+#### \{\{user.discriminator\}\}
 
 Returns the discriminator of the user.
 
 **Example**: #0000
 
-### \{\{user.tag\}\}
+#### \{\{user.tag\}\}
 
 Returns the username & discriminator of the user.
 
 **Example**: DiscordUser#0000
 
-### \{\{user.avatar\}\}
+#### \{\{user.avatar\}\}
 
 Returns the avatar id of the user.
 
 **Example**: Avatar_ID
 
-### \{\{user.avatarURL\}\}
+#### \{\{user.avatarURL\}\}
 
 Returns the avatar url of the user.
 
 **Example**: https://cdn.discordapp.com/avatars/User_ID/Avatar_ID.<jpg/gif>
 
-### \{\{user.registrationDate\}\}
+#### \{\{user.registrationDate\}\}
 
 Returns the registration date of the user.
 
 **Example**: 05/13/2021 @ 00:00 (x years ago)
 
-### \{\{user.url\}\}
+#### \{\{user.url\}\}
 
 Returns the url of the user.
 
 **Example**: https://discord.com/users/User_ID
 
-## Server Variables {.tabset}
+### Server Variables {.tabset}
 
-### \{\{server\}\}
-
-Returns the name of the server.
-
-**Example**: Awesome server
-
-### \{\{server.name\}\}
+#### \{\{server\}\}
 
 Returns the name of the server.
 
 **Example**: Awesome server
 
-### \{\{server.id\}\}
+#### \{\{server.name\}\}
+
+Returns the name of the server.
+
+**Example**: Awesome server
+
+#### \{\{server.id\}\}
 
 Returns the id of the server.
 
 **Example**: 123456789123456789
 
-### \{\{server.icon\}\}
+#### \{\{server.icon\}\}
 
 Returns the icon id of the server.
 
 **Example**: Icon_ID
 
-### \{\{server.iconURL\}\}
+#### \{\{server.iconURL\}\}
 
 Returns the icon url of the server.
 
 **Example**: https://cdn.discordapp.com/icons/Server_ID/Icon_ID.<jpg/gif>
 
-### \{\{server.owner\}\}
+#### \{\{server.owner\}\}
 
 Returns the mention of the owner of the server.
 
 **Example**: @DiscordUser#0000
 
-### \{\{server.ownerID\}\}
+#### \{\{server.ownerID\}\}
 
 Returns the id of the owner of the server.
 
 **Example**: 123456789123456789
 
-### \{\{server.members\}\}
+#### \{\{server.members\}\}
 
 Returns the member count of the server.
 
 **Example**: 123,456
 
-### \{\{server.memberCount\}\}
+#### \{\{server.memberCount\}\}
 
 Returns the member count of the server.
 
 **Example**: 123456
 
-### \{\{server.inviteSplash\}\}
+#### \{\{server.inviteSplash\}\}
 
 Returns the invite splash id of the server.
 
 **Example**: Invite_Splash_ID
 
-### \{\{server.inviteSplashURL\}\}
+#### \{\{server.inviteSplashURL\}\}
 
 Returns the invite splash url of the server.
 
 **Example**: https://cdn.discordapp.com/splashes/Server_ID/Invite_Splash_ID.jpg
 
-### \{\{server.banner\}\}
+#### \{\{server.banner\}\}
 
 Returns the banner id of the server.
 
 **Example**: Banner_ID
 
-### \{\{server.bannerURL\}\}
+#### \{\{server.bannerURL\}\}
 
 Returns the banner url of the server.
 
 **Example**: https://cdn.discordapp.com/banners/Server_ID/Banner_ID.<jpg/gif>
 
-### \{\{server.vanityURL\}\}
+#### \{\{server.vanityURL\}\}
 
 Returns the vanity url of the server.
 
 **Example**: https://discord.gg/Vanity_Code
 
-### \{\{server.description\}\}
+#### \{\{server.description\}\}
 
 Returns the description of the server.
 
 **Example**: An awesome server to chat!
 
-### \{\{server.discoverySplash\}\}
+#### \{\{server.discoverySplash\}\}
 
 Returns the discovery splash id of the server.
 
 **Example**: Discovery_Splash_ID
 
-### \{\{server.discoverySplashURL\}\}
+#### \{\{server.discoverySplashURL\}\}
 
 Returns the discovery splash url of the server.
 
 **Example**: https://cdn.discordapp.com/discovery-splashes/Server_ID/Discovery_Splash_ID.jpg
 
-### \{\{server.verificationLevel\}\}
+#### \{\{server.verificationLevel\}\}
 
 Returns the verification level of the server.
 
 **Example**: None
 
-### \{\{server.nsfwLevel\}\}
+#### \{\{server.nsfwLevel\}\}
 
 Returns the NSFW level of the server.
 
 **Example**: None
 
-### \{\{server.afkTimeout\}\}
+#### \{\{server.afkTimeout\}\}
 
 Returns the afk timeout of the server.
 
 **Example**: 500 seconds
 
-### \{\{server.afkChannel\}\}
+#### \{\{server.afkChannel\}\}
 
 Returns the afk voice channel of the server.
 
 **Example**: <#123456789123456789>
 
-### \{\{server.afkChannelID\}\}
+#### \{\{server.afkChannelID\}\}
 
 Returns the afk voice channel id of the server.
 
 **Example**: 123456789123456789
 
-### \{\{server.systemChannel\}\}
+#### \{\{server.systemChannel\}\}
 
 Returns the system channel of the server.
 
 **Example**: <#123456789123456789>
 
-### \{\{server.systemChannelID\}\}
+#### \{\{server.systemChannelID\}\}
 
 Returns the system channel id of the server.
 
 **Example**: 123456789123456789
 
-### \{\{server.rulesChannel\}\}
+#### \{\{server.rulesChannel\}\}
 
 Returns the rules channel of the server.
 
 **Example**: <#123456789123456789>
 
-### \{\{server.rulesChannelID\}\}
+#### \{\{server.rulesChannelID\}\}
 
 Returns the rules channel id of the server.
 
 **Example**: 123456789123456789
 
-### \{\{server.publicUpdatesChannel\}\}
+#### \{\{server.publicUpdatesChannel\}\}
 
 Returns the public updates channel of the server.
 
 **Example**: <#123456789123456789>
 
-### \{\{server.publicUpdatesChannelID\}\}
+#### \{\{server.publicUpdatesChannelID\}\}
 
 Returns the public updates channel id of the server.
 
 **Example**: 123456789123456789
 
-### \{\{server.premiumTier\}\}
+#### \{\{server.premiumTier\}\}
 
 Returns the premium tier of the server.
 
 **Example**: Tier 3
 
-### \{\{server.premiumSubscriptions\}\}
+#### \{\{server.premiumSubscriptions\}\}
 
 Returns the premium subscriptions count of the server.
 
 **Example**: 123,456
 
-### \{\{server.premiumSubscriptionsCount\}\}
+#### \{\{server.premiumSubscriptionsCount\}\}
 
 Returns the premium subscriptions count of the server.
 
 **Example**: 123456
 
-### \{\{server.explicitContentFilter\}\}
+#### \{\{server.explicitContentFilter\}\}
 
 Returns the explicit content filter of the server.
 
 **Example**: Disabled
 
-### \{\{server.mfaLevel\}\}
+#### \{\{server.mfaLevel\}\}
 
 Returns the mfa level of the server.
 
 **Example**: Enabled
 
-### \{\{server.creationDate\}\}
+#### \{\{server.creationDate\}\}
 
 Returns the creation date of the server.
 
 **Example**: 05/13/2021 @ 00:00 (x years ago)
 
-### \{\{server.language\}\}
+#### \{\{server.language\}\}
 
 Returns the language of the server.
 
 **Example**: en-US
 
-### \{\{server.features\}\}
+#### \{\{server.features\}\}
 
 Returns the features of the server.
 
