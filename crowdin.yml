@@ -3,5 +3,3 @@ files:
     translation: /%two_letters_code%/%original_path%/%original_file_name%
   - source: /getting-started/*.md
     translation: /%two_letters_code%/%original_path%/%original_file_name%
-  - source: /modules/*.md
-    translation: /%two_letters_code%/%original_path%/%original_file_name%
