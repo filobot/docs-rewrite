@@ -26,9 +26,6 @@ In the select menu, choose the **Disable categories** option.
 
 Next, select as many categories as you want to disable.
 
-> By disabling a command category, all commands belonging to that category will not be accessible by anyone.
-> {.is-danger}
-
 ## Enable categories
 
 In the select menu, choose the **Enable categories** option.
