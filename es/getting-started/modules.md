@@ -1,48 +1,58 @@
 Here you'll learn the basics of how Filo modules work and how to configure them.
 
-# Entering the setup menu
+# What is a module?
 
-To enter Filo's setup menu, you must type **/setup** in the chat and press enter.
+A module is a specific system or functionality that allows automating actions based on conditions and criteria.
 
-Once you have executed the command, you must click on a button called **Setup Filo**.
+# How do I configure a module?
 
-## Entering the configuration of a module
+To configure a module, you must enter the Filo's setup menu, to do so, write **/setup** in the chat and press `ENTER`.
 
-To configure a module, you must previously select the category to which the module belongs, and you can perfectly know the category by looking at the left panel of this web page, since the modules are listed below the category to which they belong.
+Next, click the burple **Setup Filo** button.
 
-Once you have entered the module category, you must select the module you want to configure.
+> There can only be one active setup menu per server. Once you have clicked that button you'll immediately invalidate all previous setup menus.
+  {.is-info}
 
-### Enabling or disabling a module
+Next, you'll be shown a select menu that contains category of modules. You can identify the category of the module you want to configure in the navigation bar on the left of this page.
 
-Very easy, if you want to enable it, you just have to click the **Enable module** button and if you want to disable it, you just have to click the **Disable module** button.
+Once you have selected the category of the module, you must select the module you want to configure and voila! You have entered the configuration menu of the module you wanted!
 
-> Not all modules can be disabled.
+> There are actions that can't be performed in some modules.
   {.is-warning}
 
-### Configuring a module
+## Enabling or disabling a module
+
+To enable a module you must click on the green button **Enable module** and, if you want to disable it, you must click on the red button **Disable module**.
+
+## Configuring a module
 
 You can configure the module by clicking the **Configure module** button.
 
 > You can get more information on how to configure the module by visiting its documentation.
   {.is-info}
 
-### Configuring module exceptions
+## Configuring module exceptions
 
-You can configure module exceptions by clicking the **Module Exceptions** button. Next, you must select the exception you want to configure and continue with the instructions provided by the messages.
+You can configure module exceptions by clicking the gray **Module Exceptions** button.
+
+Next, you will be shown a select menu with the possible exceptions that you can configure. Select the exception you want to configure.
 
 > The module exceptions vary depending on each one, if you want more information, access the documentation of the module you are configuring.
   {.is-info}
 
-> Not all modules have exceptions.
-  {.is-warning}
+### Configuring a channel exception
+SoonTM.
 
-### Viewing the settings of a module
+### Configuring a role exception
+SoonTM.
 
-You can view the module settings by clicking the **View settings** button.
+## Viewing the settings of a module
 
-### Resetting the settings of a module
+You can view the module settings by clicking the gray **View settings** button.
 
-You can reset the module settings by clicking the **Reset module** button.
+## Resetting the settings of a module
+
+You can reset the module settings by clicking the red **Reset module** button.
 
 > You'll be prompted for confirmation before resetting all settings. Once approved there's no possibility to recover the previous data.
   {.is-danger}
