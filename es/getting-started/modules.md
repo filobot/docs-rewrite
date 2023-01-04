@@ -1,48 +1,58 @@
-Here you'll learn the basics of how Filo modules work and how to configure them.
+Aquí aprenderá los conceptos básicos de cómo funcionan los módulos de Filo y cómo configurarlos.
 
-# Entering the setup menu
+# ¿Qué es un módulo?
 
-To enter Filo's setup menu, you must type **/setup** in the chat and press enter.
+Un módulo es un sistema o funcionalidad específica que permite automatizar acciones basadas en condiciones y criterios.
 
-Once you have executed the command, you must click on a button called **Setup Filo**.
+# ¿Cómo configuro un módulo?
 
-## Entering the configuration of a module
+Para configurar un módulo, debe entrar en el menú de configuración de Filo, para hacerlo escribe **/setup** en el chat y pulsa `ENTRAR`.
 
-To configure a module, you must previously select the category to which the module belongs, and you can perfectly know the category by looking at the left panel of this web page, since the modules are listed below the category to which they belong.
+A continuación, haz clic en el botón burple **Configurar a Filo**.
 
-Once you have entered the module category, you must select the module you want to configure.
-
-### Enabling or disabling a module
-
-Very easy, if you want to enable it, you just have to click the **Enable module** button and if you want to disable it, you just have to click the **Disable module** button.
-
-> Not all modules can be disabled.
-  {.is-warning}
-
-### Configuring a module
-
-You can configure the module by clicking the **Configure module** button.
-
-> You can get more information on how to configure the module by visiting its documentation.
+> Solo puede haber un menú de configuración por servidor. Una vez hayas hecho clic en ese botón, invalidarás inmediatamente todos los menús de configuración anteriores.
   {.is-info}
 
-### Configuring module exceptions
+A continuación, se mostrará un menú de selección que contiene categorías de módulos. Puedes identificar la categoría del módulo que quieres configurar en la barra de navegación situada a la izquierda de esta página.
 
-You can configure module exceptions by clicking the **Module Exceptions** button. Next, you must select the exception you want to configure and continue with the instructions provided by the messages.
+Una vez hayas seleccionado la categoría del módulo, debes seleccionar el módulo que quieres configurar y ¡voilá! ¡Has entrado en el menú de configuración del módulo que querías!
 
-> The module exceptions vary depending on each one, if you want more information, access the documentation of the module you are configuring.
-  {.is-info}
-
-> Not all modules have exceptions.
+> Hay acciones que no se pueden realizar en algunos módulos.
   {.is-warning}
 
-### Viewing the settings of a module
+## Habilitar o deshabilitar un módulo
 
-You can view the module settings by clicking the **View settings** button.
+Para habilitar un módulo, debes hacer clic en el botón verde **Activar módulo** y, si quieres deshabilitarlo, debes hacer clic en el botón rojo **Desactivar módulo**.
 
-### Resetting the settings of a module
+## Configurar un módulo
 
-You can reset the module settings by clicking the **Reset module** button.
+Puedes configurar el módulo haciendo clic en el botón **Configurar módulo**.
 
-> You'll be prompted for confirmation before resetting all settings. Once approved there's no possibility to recover the previous data.
+> Puedes obtener más información sobre cómo configurar el módulo visitando su documentación.
+  {.is-info}
+
+## Configurando excepciones de módulo
+
+Puedes configurar las excepciones del módulo haciendo clic en el botón gris **Excepciones del módulo**.
+
+A continuación, se te mostrará un menú de selección con las posibles excepciones que puedes configurar. Selecciona las excepciones que quieres configurar.
+
+> Las excepciones del módulo varían en función de cada uno, si quieres más información, dirígete a la documentación del módulo que estás configurando.
+  {.is-info}
+
+### Configurando una excepción de canal
+ProntoTM.
+
+### Configurando una excepción de rol
+ProntoTM.
+
+## Viendo la configuración de un módulo
+
+Puedes ver la configuración del módulo haciendo clic en el botón gris **Ver configuración**.
+
+## Restableciendo la configuración de un módulo
+
+Puedes restablecer la configuración del módulo haciendo clic en rojo **Restablecer módulo** botón.
+
+> Se te pedirá confirmación antes de restablecer todos los ajustes. Una vez aprobado no hay posibilidad de recuperar los datos anteriores.
   {.is-danger}

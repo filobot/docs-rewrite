@@ -1,18 +1,33 @@
 # Acerca del módulo
 
-This module will allow you to modify the behavior of Filo's commands.
+Este módulo te permitirá modificar el comportamiento de los comandos de Filo.
 
-## Disable commands or categories
+> Los comandos pertenecientes a la **categoría Core** *(incluyendo la categoría)* no se pueden desactivar.
+  {.is-info}
 
-In the selection menu, you need to click on the **Disable commands** or **Disable categories** action.
-
-Next, a selection menu will be displayed, limited to 25 items with some pagination controls *(just like a book)*.
-
-Select as many items as you want to disable, and if you can't find the item you want to disable, simply go back or forward.
-
-> By disabling a command or category, it cannot be used by any user of the server (not even the owner of the server).
+> Al desactivar un comando o categoría, no puede ser utilizado por ningún usuario del servidor *(ni siquiera el dueño del servidor)*.
   {.is-danger}
 
-## Enable commands or categories
+## Desactivar comandos
 
-This procedure is exactly identical to the previous one. You just have to select in the action to carry out **Enable commands** or **Enable categories** and select the items you want to enable.
+En el menú de selección, selecciona la opción **Desactivar comandos**.
+
+A continuación, selecciona tantos comandos como quieras desactivar. **No se mostrarán todos los comandos,** así que, si un comando no aparece, utiliza los botones de navegación. *¡Como si fuera un libro!*
+
+## Activar comandos
+
+En el menú de selección, selecciona la opción **Activar comandos**.
+
+A continuación, selecciona tantos comandos como quieras activar. **No se mostrarán todos los comandos,** así que, si un comando no aparece, utiliza los botones de navegación. *¡Como si fuera un libro!*
+
+## Desactivar categorias
+
+En el menú de selección, selecciona la opción **Desactivar categorías**.
+
+A continuación, selecciona tantas categorías como quieras desactivar.
+
+## Activar categorías
+
+En el menú de selección, selecciona la opción **Activar categorías**.
+
+A continuación, selecciona tantas categorías como quieras activar.

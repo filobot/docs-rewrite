@@ -5,6 +5,9 @@ En esta Wiki encontrarás todos los recursos y documentación necesarios para ap
 > Si necesitas ayuda o necesitas alguna aclaración adicional, **[contáctanos](https://filobot.xyz/discord)**.
   {.is-info}
 
+> Este sitio está actualmente en desarrollo y es posible que falten algunos temas. ¡Estamos trabajando para terminar lo antes posible!
+  {.is-warning}
+
 ## Acerca de Filo
 
 Filo es una potente bot multipropósito de Discord que sirve a los gremios de Discord desde 2019. Contando con una amplia gama de módulos de administración y moderación para facilitarte las cosas.
@@ -44,7 +47,7 @@ Antes de abrir una solicitud de fusión, por favor lea nuestras directrices de *
 
 ## Sintaxis Markdown
 
-Este repositorio utiliza un Markdown específico para la versión final de la documentación. Puede consultar una guía extensa sobre las variables Markdown **[aquí](https://docs.requarks.io/en/editors/markdown)**.
+Este repositorio utiliza un Markdown específico para la versión final de la documentación. Puedes consultar una guía extensa sobre las variables Markdown **[aquí](https://docs.requarks.io/en/editors/markdown)**.
 
 ## Variables de la Documentación
 
