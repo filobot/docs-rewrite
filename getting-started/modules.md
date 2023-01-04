@@ -6,6 +6,9 @@ A module is a specific system or functionality that allows automating actions ba
 
 # How do I configure a module?
 
+> You must be the **owner of the server** where you want to configure a module, or you must have at least one of the following permissions: **Administrator** or **Manage Server**. More information about permissions **[here](https://support.discord.com/hc/en-us/articles/206029707)**.
+> {.is-warning}
+
 To configure a module, you must enter the Filo's setup menu, to do so, write **/setup** in the chat and press `ENTER`.
 
 Next, click the burple **Setup Filo** button.
