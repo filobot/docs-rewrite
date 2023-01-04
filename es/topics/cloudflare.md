@@ -1,75 +1,75 @@
-Here you'll find non-exhaustive information on how Cloudflare works in our domains and services.
+Aquí encontrará información no exhaustiva sobre cómo funciona Cloudflare en nuestros dominios y servicios.
 
-# What's Cloudflare?
+# ¿Qué es Cloudflare?
 
-Cloudflare is one of the biggest networks operating on the Internet. People use Cloudflare services for the purposes of increasing the security and performance of their web sites and services.
+Cloudflare es una de las mayores redes que operan en Internet. La gente utiliza los servicios de Cloudflare con el fin de aumentar la seguridad y el rendimiento de sus sitios y servicios web.
 
-## How does Cloudflare help us?
+## ¿Cómo nos ayuda Cloudflare?
 
-Cloudflare helps us keep our website safe from attackers with malicious intent and speeds up our website globally.
+Cloudflare nos ayuda a mantener nuestro sitio web a salvo de atacantes con intenciones maliciosas y acelera nuestro sitio web en todo el mundo.
 
-# About Cloudflare bans
+# Acerca de una prohibición de Cloudflare
 
-A very important task for Cloudflare is to protect us from DDoS attacks that could take our service offline, and to do this, we automate systems so that bans can be sent to attackers or devices victimized by the attacker.
+Una tarea muy importante para Cloudflare es protegernos de los ataques DDoS que podrían llevar nuestro servicio fuera de línea y, para ello, automatizamos los sistemas para que las prohibiciones puedan ser enviadas a atacantes o dispositivos victimizados por el atacante.
 
-> We take every ban we issue very seriously, and we won't hesitate to prioritize protecting ourselves in these types of situations.
+> Nos tomamos muy en serio todas las prohibiciones que otorgamos y no dudaremos en priorizar protegernos en este tipo de situaciones.
   {.is-info}
 
-There are two types of bans that we make use of:
-- **Temporary bans**: Responded with the code 403 followed by the message "Access Denied".
-- **Permanent bans**: Responded with The code 403 followed by the message "Access Denied".
+Hay dos tipos de prohibiciones que utilizamos:
+- **Prohibiciones temporales**: Respondidos con el código 403 seguido por el mensaje "Acceso Denegado".
+- **Prohibiciones permanentes**: Respondidos con el código 403 seguido por el mensaje "Acceso Denegado".
 
-\* The type of ban received will also be specified.
+\* También se especificará el tipo de baneo recibido.
 
-> In some situations, a [captcha](https://www.hcaptcha.com) may be required before accessing our website, as an alternative to Cloudflare bans.
+> En algunas situaciones, un [captcha](https://www.hcaptcha.com) puede ser requerido antes de acceder a nuestro sitio web, como una alternativa a las prohibiciones de Cloudflare.
   {.is-info}
 
-Objects that can be banned:
-- Your IP address.
-- Your Internet Service Provider[^1].
-- Your IP address range[^2].
-- The User-Agent of your browser.
-- Your country.
-- The type of browser [🕵️](https://www.torproject.org/) you use.
+Objetos que pueden ser prohibidos:
+- Tu dirección IP.
+- Tu Proveedor de Servicios de Internet[^1].
+- Tu rango de dirección IP[^2].
+- El agente de usuario de tu navegador.
+- Tu país.
+- El tipo de navegador [🕵️](https://www.torproject.org/) que utilices.
 
-\* Not all objects are mentioned here.
+\* No todos los objetos se mencionan aquí.
 
-> When a ban is issued, you are banned from accessing any services or pages on our website while the ban is in effect.
+> Cuando se emite una prohibición, se le prohíbe acceder a cualquier servicio o página de nuestro sitio web mientras la prohibición está en vigor.
   {.is-danger}
 
-### Temporary bans
+### Prohibiciones temporales
 
-These are bans that typically expire after **1 hour** of being issued.
+Estas son prohibiciones que normalmente expiran después de **1 hora** de ser emitidas.
 
-> These sanctions can't be appealed.
+> Estas sanciones no se pueden apelar.
   {.is-danger}
 
-### Permanent bans
+### Prohibiciones permanentes
 
-These bans never expire once they are issued.
+Estas prohibiciones nunca expiran una vez que se emiten.
 
-> If you think your ban is unfair or wrong, appeal the ban by **[clicking here](https://forms.gle/Pdig38H5gn6XfyW76)**.
+> Si crees que tu prohibición es injusta o incorrecta, apela **[haciendo clic aquí](https://forms.gle/Pdig38H5gn6XfyW76)**.
   {.is-info}
 
-> Making an appeal doesn't ensure you'll be unbanned, it only ensures that we'll thoroughly review your case.
+> Haciendo una apelación no te asegura de que vayas a ser desbaneado, sólo asegura que revisaremos a fondo tu caso.
   {.is-warning}
 
-# What actions are banned?
+# ¿Qué acciones están prohibidas?
 
-> Not all actions are listed here for security reasons.
+> No todas las acciones se muestran aquí por razones de seguridad.
   {.is-warning}
 
-## Excess 429 errors[^3]
+## Excesos de errores 429[^3]
 
-Our service has two types of rate limits:
-- **Individual or specific** (API): They are different for each endpoint and restrictive in the short term. Exceeding these ratelimits doesn't result in a Cloudflare ban.
-- **Global or common** (Generic): They are the same for each endpoint and restrictive in the long term. Exceeding these ratelimits does result in a Cloudflare ban.
+Nuestro servicio tiene dos tipos de límites de tarifa:
+- **Individual o específico** (API): Son diferentes para cada punto final y restrictivos a corto plazo. Exceder estos limites de tarifa no da como resultado una prohibición de Cloudflare.
+- **Global o común** (Genérica): Son iguales para cada punto final y restrictivos a largo plazo. Exceder estos limites de tarifa da lugar a una prohibición de Cloudflare.
 
-Respect the ratelimits regardless of what they are. The API isn't publicly accessible, so we don't expect you to use it, but if you do, check the `X-RateLimit` headers to make sure you respect the rate limits.
+Respeta los limites de tarifa independientemente de lo que son. La API no es accesible públicamente, así que no esperamos que la utilices, pero, si lo haces, verifica los encabezados de `X-RateLimit` para asegurarte de respetar los límites de tarifa.
 
-> If you repeatedly receive a **429 errors**, there is a good chance that a Cloudflare ban will be issued. If it happens frequently you'll receive a permanent Cloudflare ban.
+> Si recibes repetidamente **errores 429**, hay una buena probabilidad de que se emita una prohibición de cloudflare. Si sucede con frecuencia, recibirás una prohibición permanente de Cloudflare.
   {.is-danger}
 
-[^1]: We refer to the company that provides you with the internet connection service.
-[^2]: You can find out your IP address range by **[clicking here](https://www.calculator.net/ip-subnet-calculator.html)**.
-[^3]: 429 errors tell browsers and applications making requests of any kind to our website that your rate limit is being exceeded.
+[^1]: Nos referimos a la empresa que le proporciona el servicio de conexión a Internet.
+[^2]: Puedes averiguar su rango de direcciones IP haciendo clic **[aquí](https://www.calculator.net/ip-subnet-calculator.html)**.
+[^3]: Los errores 429 indican a los navegadores y aplicaciones, que hacen solicitudes de cualquier tipo a nuestro sitio web, que su límite de velocidad está siendo excedido.
