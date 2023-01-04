@@ -5,6 +5,9 @@ En esta Wiki encontrarás todos los recursos y documentación necesarios para ap
 > Si necesitas ayuda o necesitas alguna aclaración adicional, **[contáctanos](https://filobot.xyz/discord)**.
   {.is-info}
 
+> This site is currently under development and some topics may be missing. We are working to finish as soon as possible!
+  {.is-warning}
+
 ## Acerca de Filo
 
 Filo es una potente bot multipropósito de Discord que sirve a los gremios de Discord desde 2019. Contando con una amplia gama de módulos de administración y moderación para facilitarte las cosas.
@@ -22,16 +25,16 @@ Filo es una potente bot multipropósito de Discord que sirve a los gremios de Di
 
 En algunas páginas es posible que encuentres algunos caracteres o claves importantes que debes tener en cuenta para entender la información que se está exponiendo. Estos caracteres o claves son:
 
-> Las notas informativas se mostrarán en una caja similar a esta.
+> Informative notes will be displayed in a box similar to this one.
   {.is-info}
 
-> Las recomendaciones se mostrarán en una caja similar a esta.
+> Recommendations will be displayed in a box similar to this one.
   {.is-success}
 
-> Las advertencias se mostrarán en una caja similar a esta.
+> Warnings will be displayed in a box similar to this one.
   {.is-warning}
 
-> Las alertas e información importante se mostrarán en una caja similar a esta.
+> Alerts and important information will be displayed in a box similar to this one.
   {.is-danger}
 
 `[]` Esto representa argumentos opcionales `<>` Esto representa los argumentos requeridos
