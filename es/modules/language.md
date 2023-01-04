@@ -2,12 +2,12 @@
 
 Este módulo te permitirá configurar el idioma de Filo en el servidor.
 
-> If you've recently added Filo, we may have pre-set the language for you.
+> Si has añadido recientemente Filo, es posible que hayamos preestablecido el idioma para ti.
   {.is-info}
 
-## Select the language
+## Selecciona el idioma
 
-In the select menu, select the language that best suits your server.
+En el menú de selección, selecciona el idioma que mejor se adapte a tu servidor.
 
-> We are looking for collaborators to translate Filo! [Join the Filo translation program](https://filobot.xyz/translate).
+> Estamos buscando colaboradores para traducir Filo! [Únete al programa de traducción de Filo](https://filobot.xyz/translate).
   {.is-info}
