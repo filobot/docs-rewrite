@@ -5,6 +5,9 @@ In this Wiki you'll find all the resources and documentation necessary to learn 
 > If you need help or require any additional clarification, **[contact us](https://filobot.xyz/discord)**.
 > {.is-info}
 
+> This site is currently under development and some topics may be missing. We are working to finish as soon as possible!
+> {.is-warning}
+
 ## About Filo
 
 Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. Featuring a wide range of admin and moderation modules to make things easier for you.
