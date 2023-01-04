@@ -6,6 +6,9 @@ Un módulo es un sistema o funcionalidad específica que permite automatizar acc
 
 # ¿Cómo configuro un módulo?
 
+> Debes ser el **dueño del servidor** donde quieres configurar un módulo, o debes tener al menos uno de los siguientes permisos: **Administrador** o **Gestionar Servidor**. Más información sobre los permisos **[aquí](https://support.discord.com/hc/en-us/articles/206029707)**.
+  {.is-warning}
+
 Para configurar un módulo, debe entrar en el menú de configuración de Filo, para hacerlo escribe **/setup** en el chat y pulsa `ENTRAR`.
 
 A continuación, haz clic en el botón burple **Configurar a Filo**.
