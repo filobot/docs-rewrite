@@ -2,17 +2,35 @@
 
 This module will allow you to modify the behavior of Filo's commands.
 
-## Disable commands or categories
+> Commands belonging to the **Core category** *(including the category)* can't be disabled.
+> {.is-info}
 
-In the selection menu, you need to click on the **Disable commands** or **Disable categories** action.
-
-Next, a selection menu will be displayed, limited to 25 items with some pagination controls *(just like a book)*.
-
-Select as many items as you want to disable, and if you can't find the item you want to disable, simply go back or forward.
-
-> By disabling a command or category, it cannot be used by any user of the server (not even the owner of the server).
+> By disabling a command or category, it cannot be used by any user of the server *(not even the owner of the server)*.
 > {.is-danger}
 
-## Enable commands or categories
+## Disable commands
 
-This procedure is exactly identical to the previous one. You just have to select in the action to carry out **Enable commands** or **Enable categories** and select the items you want to enable.
+In the select menu, choose the **Disable commands** option.
+
+Next, select as many commands as you want to disable. **Not all commands will show up,** so if a command doesn't show up, use the navigation buttons. *As if it were a book!*
+
+## Enable commands
+
+In the select menu, choose the **Enable commands** option.
+
+Next, select as many commands as you want to enable. **Not all commands will show up,** so if a command doesn't show up, use the navigation buttons. *As if it were a book!*
+
+## Disable categories
+
+In the select menu, choose the **Disable categories** option.
+
+Next, select as many categories as you want to disable.
+
+> By disabling a command category, all commands belonging to that category will not be accessible by anyone.
+> {.is-danger}
+
+## Enable categories
+
+In the select menu, choose the **Enable categories** option.
+
+Next, select as many categories as you want to enable.
