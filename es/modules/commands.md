@@ -1,36 +1,33 @@
 # Acerca del módulo
 
-This module will allow you to modify the behavior of Filo's commands.
+Este módulo te permitirá modificar el comportamiento de los comandos de Filo.
 
-> Commands belonging to the **Core category** *(including the category)* can't be disabled.
+> Los comandos pertenecientes a la **categoría Core** *(incluyendo la categoría)* no se pueden desactivar.
   {.is-info}
 
-> By disabling a command or category, it cannot be used by any user of the server *(not even the owner of the server)*.
+> Al desactivar un comando o categoría, no puede ser utilizado por ningún usuario del servidor *(ni siquiera el dueño del servidor)*.
   {.is-danger}
 
-## Disable commands
+## Desactivar comandos
 
-In the select menu, choose the **Disable commands** option.
+En el menú de selección, selecciona la opción **Desactivar comandos**.
 
-Next, select as many commands as you want to disable. **Not all commands will show up,** so if a command doesn't show up, use the navigation buttons. *As if it were a book!*
+A continuación, selecciona tantos comandos como quieras desactivar. **No se mostrarán todos los comandos,** así que, si un comando no aparece, utiliza los botones de navegación. *¡Como si fuera un libro!*
 
-## Enable commands
+## Activar comandos
 
-In the select menu, choose the **Enable commands** option.
+En el menú de selección, selecciona la opción **Activar comandos**.
 
-Next, select as many commands as you want to enable. **Not all commands will show up,** so if a command doesn't show up, use the navigation buttons. *As if it were a book!*
+A continuación, selecciona tantos comandos como quieras activar. **No se mostrarán todos los comandos,** así que, si un comando no aparece, utiliza los botones de navegación. *¡Como si fuera un libro!*
 
-## Disable categories
+## Desactivar categorias
 
-In the select menu, choose the **Disable categories** option.
+En el menú de selección, selecciona la opción **Desactivar categorías**.
 
-Next, select as many categories as you want to disable.
+A continuación, selecciona tantas categorías como quieras desactivar.
 
-> By disabling a command category, all commands belonging to that category will not be accessible by anyone.
-  {.is-danger}
+## Activar categorías
 
-## Enable categories
+En el menú de selección, selecciona la opción **Activar categorías**.
 
-In the select menu, choose the **Enable categories** option.
-
-Next, select as many categories as you want to enable.
+A continuación, selecciona tantas categorías como quieras activar.
