@@ -5,7 +5,7 @@ En esta Wiki encontrarás todos los recursos y documentación necesarios para ap
 > Si necesitas ayuda o necesitas alguna aclaración adicional, **[contáctanos](https://filobot.xyz/discord)**.
   {.is-info}
 
-> This site is currently under development and some topics may be missing. We are working to finish as soon as possible!
+> Este sitio está actualmente en desarrollo y es posible que falten algunos temas. ¡Estamos trabajando para terminar lo antes posible!
   {.is-warning}
 
 ## Acerca de Filo
@@ -25,16 +25,16 @@ Filo es una potente bot multipropósito de Discord que sirve a los gremios de Di
 
 En algunas páginas es posible que encuentres algunos caracteres o claves importantes que debes tener en cuenta para entender la información que se está exponiendo. Estos caracteres o claves son:
 
-> Informative notes will be displayed in a box similar to this one.
+> Las notas informativas se mostrarán en una caja similar a esta.
   {.is-info}
 
-> Recommendations will be displayed in a box similar to this one.
+> Las recomendaciones se mostrarán en una caja similar a esta.
   {.is-success}
 
-> Warnings will be displayed in a box similar to this one.
+> Las advertencias se mostrarán en una caja similar a esta.
   {.is-warning}
 
-> Alerts and important information will be displayed in a box similar to this one.
+> Las alertas e información importante se mostrarán en una caja similar a esta.
   {.is-danger}
 
 `[]` Esto representa argumentos opcionales `<>` Esto representa los argumentos requeridos
@@ -47,7 +47,7 @@ Antes de abrir una solicitud de fusión, por favor lea nuestras directrices de *
 
 ## Sintaxis Markdown
 
-Este repositorio utiliza un Markdown específico para la versión final de la documentación. Puede consultar una guía extensa sobre las variables Markdown **[aquí](https://docs.requarks.io/en/editors/markdown)**.
+Este repositorio utiliza un Markdown específico para la versión final de la documentación. Puedes consultar una guía extensa sobre las variables Markdown **[aquí](https://docs.requarks.io/en/editors/markdown)**.
 
 ## Variables de la Documentación
 
