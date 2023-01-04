@@ -10,6 +10,9 @@ To configure a module, you must enter the Filo's setup menu, to do so, write **/
 
 Next, click the burple **Setup Filo** button.
 
+> You must be the **owner of the server** where you want to configure a module, or you must have at least one of the following permissions: **Administrator** or **Manage Server**. More information about permissions **[here](https://support.discord.com/hc/en-us/articles/206029707)**.
+> {.is-warning}
+
 > There can only be one active setup menu per server. Once you have clicked that button you'll immediately invalidate all previous setup menus.
 > {.is-info}
 
