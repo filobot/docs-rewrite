@@ -100,7 +100,7 @@ Next, type in the form the number of numeric *(integer)* characters long that th
 
 In the select menu, choose the **Toggle the cleaning of the markdown of member reason** option to enable/disable the cleaning of the markdown of member reason.
 
-> Clearing the markdown involves removing all the markdown characters from the member reason such as bold, italic, underline, strikethrough, code, etc.
+> Cleaning the markdown involves removing all the markdown characters from the member reason such as bold, italic, underline, strikethrough, code, etc.
 > {.is-info}
 
 > The cleaning of the markdown of member reason is **enabled** by default.
