@@ -23,7 +23,7 @@ Filo es una potente bot multipropósito de Discord que sirve a los gremios de Di
 
 # Claves de la Wiki
 
-En algunas páginas es posible que encuentres algunos caracteres o claves importantes que debes tener en cuenta para entender la información que se está exponiendo. Estos caracteres o claves son:
+On some pages it is possible that you'll find some important characters or keys that you must take into account to understand the information that is exposed. Estos caracteres o claves son:
 
 > Las notas informativas se mostrarán en una caja similar a esta.
   {.is-info}
