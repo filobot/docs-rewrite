@@ -23,7 +23,7 @@ Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. F
 
 # Wiki keys
 
-On some pages it is possible that you will find some important characters or keys that you must take into account to understand the information that is exposed. These characters or keys are:
+On some pages it is possible that you'll find some important characters or keys that you must take into account to understand the information that is exposed. These characters or keys are:
 
 > Informative notes will be displayed in a box similar to this one.
 > {.is-info}
