@@ -17,11 +17,17 @@ In the select menu, choose the **Set the reports channel** option.
 
 Next, select the channel you want to use for receiving reports. Only **text channels** are supported at the moment.
 
+**Is it too complicated? Don't worry!**
+You can check **[this video](https://www.youtube.com/watch?v=tJ4PBK2XAjQ)** to learn how to set the reports channel.
+
 ## Set the ignored role
 
 In the select menu, choose the **Set the ignored role** option.
 
 Next, select the role that users must have in order for reports to be ignored.
+
+**Is it too complicated? Don't worry!**
+You can check **[this video](https://www.youtube.com/watch?v=jvGvdSQLYfo)** to learn how to set the ignored role.
 
 ## Toggle the deletion of reviewed reports
 
@@ -40,6 +46,9 @@ Next, select the option you want to use for the deletion of reviewed reports.
 All the roles you specify will be pinged once a new report is received, so report reviewers can be aware of new reports submitted by users.
 
 The limit of roles that can be configured is **5 roles**.
+
+**Is it too complicated? Don't worry!**
+You can check **[this video](https://www.youtube.com/watch?v=9CGr0u07xRQ)** to learn how to set the notification roles.
 
 ### Add notification roles
 
@@ -71,6 +80,9 @@ Next, select all the roles you want to remove from the module's notification rol
 ## Configure the reason parameters
 
 In the select menu, choose the **Configure the reason parameters** option.
+
+**Is it too complicated? Don't worry!**
+You can check **[this video](https://www.youtube.com/watch?v=EvZR61QGYic)** to learn how to set the reason parameters.
 
 ### Set the minimum length of member reason
 
@@ -155,3 +167,6 @@ Next, type in the form the number of numeric *(integer)* evidences that the repo
 
 > The minimum count of evidences is **0 evidences** by default.
 > {.is-info}
+
+**Is it too complicated? Don't worry!**
+You can check **[this video](https://www.youtube.com/watch?v=kdMrhrKCjuU)** to learn how to set the evidences parameters.

@@ -27,6 +27,9 @@ Once you have selected the category of the module, you must select the module yo
 
 To enable a module you must click on the green button **Enable module** and, if you want to disable it, you must click on the red button **Disable module**.
 
+**Is it too complicated? Don't worry!**
+You can check **[this video](https://www.youtube.com/watch?v=BjyO3eAF0hg)** to learn how to enable a module or **[this video](https://www.youtube.com/watch?v=881asKqBJbY)** to disable a module.
+
 ## Configuring a module
 
 You can configure the module by clicking the **Configure module** button.
@@ -41,6 +44,9 @@ The DMs status indicates when a module notification should be sent to the user o
 To do this, select the **Toggle the status of DMs** option.
 
 This will toggle the DMs notification state of the module you are configuring it on.
+
+**Is it too complicated? Don't worry!**
+You can check **[this video](https://www.youtube.com/watch?v=jwQhjEw5X8w)** to learn how to toggle the status of DMs.
 
 ## Configuring module exceptions
 
@@ -57,6 +63,9 @@ Unless otherwise specified in the documentation for the module you are configuri
 
 > It is possible that some channels aren't being displayed, this is because they aren't compatible with the module you are configuring.
 > {.is-info}
+
+**Is it too complicated? Don't worry!**
+You can check **[this video](https://www.youtube.com/watch?v=yE75w5EhYxM)** to learn how to configure the channel exceptions of a module.
 
 #### Add a channel
 
@@ -98,6 +107,9 @@ You'll then be shown a role selection menu. Select as many roles as you want to 
 
 > Don't remember if a role is added? Don't worry! We'll filter the roles you select once you have sent us the answer.
 > {.is-info}
+
+**Is it too complicated? Don't worry!**
+You can check **[this video](https://www.youtube.com/watch?v=L3dkwWzfvpc)** to learn how to configure the role exceptions of a module.
 
 #### Set the roles
 
